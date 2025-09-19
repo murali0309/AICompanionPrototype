@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AICompanionPrototype/static/css/main.f7760c6e.css",
+    "main.js": "/AICompanionPrototype/static/js/main.8b34d45c.js",
+    "static/js/453.670e15c7.chunk.js": "/AICompanionPrototype/static/js/453.670e15c7.chunk.js",
+    "index.html": "/AICompanionPrototype/index.html",
+    "main.f7760c6e.css.map": "/AICompanionPrototype/static/css/main.f7760c6e.css.map",
+    "main.8b34d45c.js.map": "/AICompanionPrototype/static/js/main.8b34d45c.js.map",
+    "453.670e15c7.chunk.js.map": "/AICompanionPrototype/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7760c6e.css",
+    "static/js/main.8b34d45c.js"
+  ]
+}
